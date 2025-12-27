@@ -1,6 +1,6 @@
 import React from 'react'
 import { workItems } from '../assets/assets'
-import { div } from 'framer-motion/client'
+
 
 const Work = () => {
   return (

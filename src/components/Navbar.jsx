@@ -1,4 +1,4 @@
-import { a, div } from 'framer-motion/client';
+
 import React, { useState } from 'react'
 import { FaArrowRightLong, FaBars, FaXmark } from 'react-icons/fa6'
 
